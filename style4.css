@@ -193,15 +193,15 @@ nav .logo{
     animation: slider 15s ease-in-out infinite;
 }
 .container #slider-img-1{
-    background-image: url(glasses.jpeg);
+    background-image: url(ale.jpg);
     background-position: center;
 }
 .container #slider-img-2{
-    background-image: url(ci.jpeg);
+    background-image: url(sie.jpg);
     background-position: center;
 }
 .container #slider-img-3{
-    background-image: url(rob.jpeg);
+    background-image: url(roblox.jpg);
     background-position: center;
 }
 .container #slider-img-4{
